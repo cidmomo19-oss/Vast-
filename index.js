@@ -2,7 +2,7 @@ export default {
   async fetch(request) {
     // --- SETTING URL DI SINI ---
     const VIDEO_URL = "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4";
-    const LINK_IKLAN = "https://shopee.co.id"; // Tujuan klik video
+    const LINK_IKLAN = "https://cintabokep.top"; // Tujuan klik video
     const LINK_SOCIAL = "https://tokopedia.com"; // Tujuan klik icon kecil
     const GAMBAR_ICON = "https://via.placeholder.com/100x30"; // Gambar untuk social bar kecil
     // ---------------------------
